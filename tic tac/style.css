@@ -1,0 +1,37 @@
+td{
+    border: 2px solid #333;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+    font-family: fantasy , cursive;
+    font-size: 50px;
+    cursor: crosshair;
+}
+table{
+    border-collapse: collapse;
+    position: absolute;
+    left: 50%;
+    margin-left: -155px;
+    top: 50px;
+    margin-right: auto;
+    border-color: chocolate;
+}
+ .endgame {
+	display: none;
+     width: 200px;
+     top: 120px;
+     background-color: saddlebrown;
+     position: absolute;
+     margin-left: inherit;
+     padding-top: 50px;
+     text-align: center;
+     border-radius: 5px;
+     color: whitesmoke;
+     font-size: 2em;
+     text-decoration-style: wavy;
+}
+.button{
+    padding-top: -200px;
+    color: black;
+}
