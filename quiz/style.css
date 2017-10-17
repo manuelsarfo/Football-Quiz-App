@@ -1,0 +1,42 @@
+
+body {
+  font-family: fantasy;
+  color:#113290;
+  border-style:solid;
+  border-radius:20px
+}
+
+.question {
+  text-align: center;
+  font-size: 2em; 
+}
+.questionNumber {
+  text-align: center;
+  padding: 2em;
+  font-size: 1.5em;
+}
+.answers {
+  font-size: 1em;
+}
+.answers label {
+  vertical-align: middle;
+  font-size: 1.2em;
+}
+.answers input {
+  margin-left: 46em;
+  vertical-align: middle;
+  width: 1.2em;
+  height: 1.2em;
+}e
+.button {
+  text-align: center;
+}
+
+.answers button {
+  width: 5%;
+  padding: .5em;
+  margin: 2.5em;
+  border-radius: 15px;
+  
+}
+
