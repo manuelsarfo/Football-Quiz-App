@@ -6,7 +6,7 @@ function ready(fn) {
   }
 }
 var name = window.prompt('Enter your name and lets begin');
-window.confirm ('Hey!  ' + name + ' Should we begin?' )
+window.confirm ('Hey!  ' + name + ' Should we begin??' )
 ready(choices);
 
 var content =
